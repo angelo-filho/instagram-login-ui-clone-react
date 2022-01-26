@@ -1,9 +1,8 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Container = styled.footer`
   width: 98vw;
 
-  margin-top: 2rem;
   margin-bottom: 4rem;
   padding: 0 1.25rem;
 `;
